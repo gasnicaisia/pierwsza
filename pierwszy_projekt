@@ -11,3 +11,4 @@ else:
 print("To jest moja zmiana!")
 
 print("Hi there!")
+print(":)))")
