@@ -1,0 +1,10 @@
+print("Ile masz lat?")
+wiek=int(input())
+if wiek<= 3:
+    print("Jesteś niemowlęciem")
+elif wiek<12:
+    print("Jesteś dzieckiem!")
+elif wiek<20:
+    print("Jesteś nastolatkiem!")
+else:
+    print("Jesteś dorosły!")
