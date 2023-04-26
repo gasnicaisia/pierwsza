@@ -9,3 +9,5 @@ elif wiek<20:
 else:
     print("Jesteś dorosły!")
 print("To jest moja zmiana!")
+
+print("Hi there!")
